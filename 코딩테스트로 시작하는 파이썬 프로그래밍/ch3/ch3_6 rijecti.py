@@ -1,14 +1,13 @@
-n = int(input())
-first_num = "A"
-if first_num == 'A':
-    first_num = 'B'
-elif first_num == 'B':
-    first_num = 'BA'
+k = int(input())
 
-for i in fisrt:
-    if first_num == 'A':
-        first_num = 'B'
-    elif first_num == 'B':
-        first_num = 'BA'
+a = 1
+b = 0
 
-print(first_num)
+for i in range(k):
+    new_a = b
+    new_b = a + b
+    a = new_a
+    b = new_b
+
+print(a, b)
+    
