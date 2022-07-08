@@ -18,9 +18,9 @@ for i in mus_list:
         c_count = c_count + 1
     
 if a_count == c_count:
-    if mus_list[-1] == 'A':
+    if mus[-1] == 'A':
         a_count = a_count + 1
-    elif mus_list[-1] == 'C':
+    elif mus[-1] == 'C':
         c_count = c_count + 1
 # print(a_count, c_count)
 if a_count > c_count:
