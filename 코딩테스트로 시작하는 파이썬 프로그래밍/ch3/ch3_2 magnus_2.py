@@ -1,4 +1,3 @@
-from ctypes.wintypes import HMONITOR
 
 
 sentence = input()
