@@ -29,6 +29,7 @@
 
 
 ## python 300제
+![code link](https://github.com/minigoom/python-algorithm-study/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20300%EC%A0%9C.ipynb)
 
 ## alogrithum
 - 교재 : 코딩테스트로 시작하는파이썬 알고리즘
