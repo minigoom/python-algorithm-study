@@ -10,7 +10,7 @@
 | 3 | 출력 | ![📘](https://velog.io/@minigoom/7.-%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95)   |
 | 4 | 불 연산자 |![📘](https://velog.io/@minigoom/8.-%EB%B6%88%EA%B3%BC-%EB%B9%84%EA%B5%90-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)    |
 | 5 | 문자열 | ![📘](https://velog.io/@minigoom/9.-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)   |
-| 6 | 리스트, 튜플 |![📘](https://velog.io/@minigoom/10.-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%8A%9C%ED%94%8C)    |
+| 6 | 리스트, 튜플 |![📘]()    |
 | 7 | 시퀀스 자료형 | ![📘](https://velog.io/@minigoom/11.-%EC%8B%9C%ED%80%80%EC%8A%A4-%EC%9E%90%EB%A3%8C%ED%98%95-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)   |
 | 8 | 딕셔너리  |![📘](https://velog.io/@minigoom/unit12-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)    |
 | 9 | if 문 |![📘](https://velog.io/@minigoom/unit13-unit15-if-%EB%AC%B8)    |
