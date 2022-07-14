@@ -5,8 +5,8 @@
 
 | INDEX | TITLE | BLOG |
 | --- | --- | --- |
-| 1 | 숫자 계산하기 |![📘](https://velog.io/@minigoom/5.-%EC%88%AB%EC%9E%90-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)|
-| 2 | 변수와 입력 |![📘](https://velog.io/@minigoom/6.-%EB%B3%80%EC%88%98%EC%99%80-%EC%9E%85%EB%A0%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)  |
+| 1 | 숫자 계산하기 |[📘](https://velog.io/@minigoom/5.-%EC%88%AB%EC%9E%90-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)|
+| 2 | 변수와 입력 |[📘](https://velog.io/@minigoom/6.-%EB%B3%80%EC%88%98%EC%99%80-%EC%9E%85%EB%A0%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)  |
 | 3 | 출력 | ![📘](https://velog.io/@minigoom/7.-%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95)   |
 | 4 | 불 연산자 |![📘](https://velog.io/@minigoom/8.-%EB%B6%88%EA%B3%BC-%EB%B9%84%EA%B5%90-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)    |
 | 5 | 문자열 | ![📘](https://velog.io/@minigoom/9.-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)   |
