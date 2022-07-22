@@ -17,7 +17,7 @@ for word in sentence:
         match = 'N'
     elif match_position == 3:
         match = 'I'
-    # print('match_postion:{},match:{},word:{}'.format(match_position, match,word))
+    print('match_postion:{},match:{},word:{}'.format(match_position, match,word))
     if match == word:
         match_position = match_position+1
         if match_position == 4:
