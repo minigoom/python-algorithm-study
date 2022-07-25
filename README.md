@@ -32,5 +32,12 @@
 [code link](https://github.com/minigoom/python-algorithm-study/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20300%EC%A0%9C.ipynb)
 
 ## alogrithum
-- 교재 : 코딩테스트로 시작하는파이썬 알고리즘
-- 자료정리
+- 교재 : 코딩테스트로 시작하는파이썬 알고리즘  
+---------
+| CHAPTER | TITLE | CODE |
+| --- | --- | --- |
+| 1 |  문자열 | [code_link](https://github.com/minigoom/python-algorithm-study/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/ch1) |
+| 2 | 조건문 | [code_link](https://github.com/minigoom/python-algorithm-study/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/ch%202) |
+| 3 | for문 | [code_link](https://github.com/minigoom/python-algorithm-study/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/ch3) |
+| 4 | while문 | [cod_link](https://github.com/minigoom/python-algorithm-study/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/ch4) |
+| 5 | 리스트 | [code_link](https://github.com/minigoom/python-algorithm-study/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/ch5) |
