@@ -22,7 +22,7 @@ else:
             # print('time_lst[large]:',time_lst[a+1])
             is_sorted = False
         a += 1
-if is_sorted:
-    print(max(time_lst)-min(time_lst))
-else:
-    print('unknown')
+    if is_sorted:
+        print(time_lst[large_index] - time_lst[small_index])
+    else:
+        print('unknown')
